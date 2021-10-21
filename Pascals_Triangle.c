@@ -1,3 +1,6 @@
+// Program to create Pascal's triangle using only arrays and loops
+
+//Program code: 
 #include <stdio.h>
 void main(){
     int array1[20],array2[20],base=1;
@@ -31,6 +34,7 @@ void main(){
 
 }
 
+// Desirable output: 
 /*
 1 
 1 1
